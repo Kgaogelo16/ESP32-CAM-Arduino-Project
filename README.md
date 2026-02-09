@@ -48,7 +48,7 @@ Documented the project workflow and results.
 
 Team Members
 
--Ntuli KJB (You)
+-Ntuli KJB (Me)
 -NF Maluleke
 -NS NZUZA
 -OO Nkwane
